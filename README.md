@@ -24,4 +24,4 @@ Redis is not implemented into this proof of concept, however, it's a future idea
 1. Clone this repository
 2. install all dependencies with `npm install`
 3. Create a file called  `.env` and put the `AUTH_TOKEN` value, take the `.env-sample` as an example
-4. Execute the server with `npm start` and configure your client application
+4. Execute the server with `npm start` and configure your [client application](https://github.com/855ribeiro/secure-gateway-client)
