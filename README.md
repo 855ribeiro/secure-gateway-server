@@ -9,7 +9,7 @@ To connect into the Socket Server you need to specify the correct authentication
 
 With this proof of concept, I'm indicating that your client (resided in On-Premise infrastructure) could establish communication into a Cloud Application and the server can make requests through the On-Premise Application.
 
-![proposed architecture](docs/Sg-Server.jpg)
+![proposed architecture](docs/SG-Server.jpg)
 
 ## Requirements
 
