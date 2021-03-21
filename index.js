@@ -60,6 +60,6 @@ app.get('/:client_id', (req, res) => {
     }
 });
 
-server.listen(3000, () => {
+server.listen(process.env.PORT || 3000, () => {
     console.info("Listening on http://localhost:3000");
 })
