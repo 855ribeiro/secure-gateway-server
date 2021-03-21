@@ -11,6 +11,8 @@ With this proof of concept, I'm indicating that your client (resided in On-Premi
 
 ![proposed architecture](docs/SG-Server.jpg)
 
+Redis is not implemented into this proof of concept, however, it's a future idea.
+
 ## Requirements
 
 - The Intranet client machine must have internet
